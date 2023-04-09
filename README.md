@@ -1,1 +1,45 @@
 # Subjects-Taught
+
+
+## Full Semester Courses taught at the Sikkim University from July, 2012 onwards Till Now
+
+*   Introduction to Cyber Security (2022 Monsoon semester)
+*   Object Oriented Programming in C++ and Java (2023 Spring semester)
+*   Introduction to Computer Systems (2022 Monsoon semester)
+*   Discrete Mathematics (2022 Monsoon semester)
+*   Data Structure and Algorithm (2022 Spring semester)
+*   Formal language and Automata Theory (2022 Spring semester)
+*   Discrete Mathematics (2021 Monsoon semester)
+*   Introduction to Computer Systems (2021 Monsoon semester)
+*   Mathematics – I (Numerical Methods) (2020 Monsoon semester)
+*   Digital Logic (2020 Monsoon semester)
+*   Mathematics – II (Discrete Mathematics) (2020 Spring semester)
+*   Computer Organization and Architecture (2020 Spring semester)
+*   Internet of Things (Elective Paper) (2019 Monsoon semester)
+*   Digital Logic (2019 Monsoon semester)
+*   Mathematics-III (Discrete Mathematics) (2019 Spring semester)
+*   Computer Organization and Architecture (2019 Spring semester)
+*   Formal Language and Automata Theory, Compiler Design (2018 Monsoon semester)
+*   Computer Organization and Architecture and VLSI Design (2018 Spring semester)
+*   Microprocessors and Microcontrollers and Digital Logic (2017 Monsoon semester)
+*   Java (2017 Spring semester)
+*   CMOS VLSI Design (2017 Spring semester)
+*   Computer Organization and Architecture (2016 Monsoon semester)
+*   Microprocessors (2016 Monsoon semester)
+*   Artificial Intelligence (Fuzzy Set) (2016 Monsoon semester)
+*   Computer Organization and Architecture (2016 Monsoon semester)
+*   Formal Language and Automata Theory (2016 Spring semester)
+*   Microprocessors (2016 Spring semester)
+*   Microprocessors (2015 Spring semester)
+*   Research Methodology (Statistics) (2014 Monsoon semester)
+*   Basic Electronics (2012, 2013, 2014 Monsoon semester)
+*   Computer Organization and Architecture (2014 Spring semester)
+*   Mathematical Foundation-I (Discrete Structure) (2013 Monsoon semester)
+*   Computer Application in Management (2013 Monsoon semester)
+*   Computer System Architecture (2013 Monsoon semester)
+*   Data Structure (2013 Monsoon semester)
+*   Computer Organization (2012 Spring semester)
+
+## Full Semester Courses taught at Surendra Institute of Engineering and Management, Siliguri from January, 2012 to June, 2012
+
+*   C Programming and Laboratory (at B. Tech. level)
