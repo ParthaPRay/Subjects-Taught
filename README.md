@@ -3,6 +3,7 @@
 
 ## Full Semester Courses taught at the Sikkim University from July, 2012 onwards Till Now
 
+*   Discrete Mathematics (2023-24 Odd semester)
 *   Introduction to Cyber Security (2022-23 Even semester)
 *   Object Oriented Programming in C++ and Java (2022-23 Even semester)
 *   Introduction to Computer Systems (2022-23 Odd semester)
